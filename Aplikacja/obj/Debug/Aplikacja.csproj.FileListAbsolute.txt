@@ -1,0 +1,17 @@
+C:\Users\student\Desktop\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\student\Desktop\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\student\Desktop\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.Form1.resources
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.Form2.resources
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.Form4.resources
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.Form5.resources
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.Form6.resources
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.Form7.resources
+C:\Users\student\Desktop\Aplikacja\obj\Debug\Aplikacja.Form3.resources
